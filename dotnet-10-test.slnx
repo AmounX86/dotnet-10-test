@@ -1,2 +1,5 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/compare-collections/compare-collections.csproj" />
+  </Folder>
 </Solution>
